@@ -6,7 +6,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Style-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Welcome to the official repository for the **Steal an Egg Wiki**. This site is built to provide players with real-time stats, comprehensive egg locations, consumable mutation guides, and strategic gameplay tips.
+Welcome to the official repository for the **[Steal an Egg Wiki](https://stealanegg.gamehubs.wiki/eggs)**. This site is built to provide players with real-time stats, comprehensive egg locations, consumable mutation guides, and strategic gameplay tips.
 
 🌐 **Live Site:** [https://stealanegg.gamehubs.wiki/eggs](https://stealanegg.gamehubs.wiki/eggs)
 
