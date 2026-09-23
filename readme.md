@@ -29,6 +29,7 @@ Welcome to the official repository for the **[Steal an Egg Wiki](https://stealan
 - **Icons:** [Lucide React](https://lucide.dev/)
 - **Content:** MDX / Structured JSON Databases
 - **Deployment:** Cloudflare Pages / Vercel
+- - **Google:** [google site](https://sites.google.com/view/stealaneggwiki/%E9%A6%96%E9%A1%B5)
 
 ---
 
